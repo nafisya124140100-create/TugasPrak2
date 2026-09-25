@@ -1,5 +1,6 @@
 # Tugas Praktikum 2
 Nama: Nafisya Ghalia
+
 NIM: 124140100
 ## News Feed Simulator
 
@@ -16,5 +17,7 @@ Aplikasi News Feed Simulator menggunakan Kotlin.
 
 text
 ├── shared/            # Module shared (Logic, ViewModel, Repository, Flows)
+
+
 │   └── src/commonMain # Kode
 

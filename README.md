@@ -15,9 +15,9 @@ Aplikasi News Feed Simulator menggunakan Kotlin.
 
 ## 📂 Struktur Proyek
 
-text
+'''text
 ├── shared/            # Module shared (Logic, ViewModel, Repository, Flows)
 
 
 │   └── src/commonMain # Kode
-
+'''
